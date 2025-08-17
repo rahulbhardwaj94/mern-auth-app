@@ -2,6 +2,14 @@
 
 A complete authentication system built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring email verification, OTP functionality, and secure user management.
 
+## Screenshots
+
+<img width="1187" height="614" alt="Screenshot 2025-08-17 at 10 51 11 AM" src="https://github.com/user-attachments/assets/1683f252-a640-4f99-86d7-61d08706d47c" />
+
+
+
+
+
 ## Features
 
 ### Backend Features
