@@ -12,7 +12,8 @@ A complete authentication system built with the MERN stack (MongoDB, Express.js,
 <img width="1202" height="751" alt="Screenshot 2025-08-17 at 10 50 58 AM" src="https://github.com/user-attachments/assets/3f85636c-120c-4b1c-8ceb-e627d32c8695" />
 <img width="1187" height="614" alt="Screenshot 2025-08-17 at 10 51 11 AM" src="https://github.com/user-attachments/assets/127cc64c-b267-41ab-a1fe-fa8151bd35d3" />
 
-
+## Netlify (Frontend only)
+https://animated-taffy-102bc6.netlify.app/login
 
 ## Features
 
