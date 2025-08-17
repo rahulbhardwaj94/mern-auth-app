@@ -4,9 +4,13 @@ A complete authentication system built with the MERN stack (MongoDB, Express.js,
 
 ## Screenshots
 
-<img width="1187" height="614" alt="Screenshot 2025-08-17 at 10 51 11 AM" src="https://github.com/user-attachments/assets/1683f252-a640-4f99-86d7-61d08706d47c" />
-
-
+<img width="1414" height="762" alt="Screenshot 2025-08-17 at 10 49 27 AM" src="https://github.com/user-attachments/assets/76d56274-068f-42f3-b600-e38cc6f05cbc" />
+<img width="1389" height="648" alt="Screenshot 2025-08-17 at 10 49 38 AM" src="https://github.com/user-attachments/assets/d03d5bff-b6cd-44d7-8a41-95dc3679e338" />
+<img width="1128" height="622" alt="Screenshot 2025-08-17 at 10 49 56 AM" src="https://github.com/user-attachments/assets/80d05c35-c17a-47ed-b34f-f7748a5ca78c" />
+<img width="1391" height="586" alt="Screenshot 2025-08-17 at 10 50 10 AM" src="https://github.com/user-attachments/assets/4a370ce5-fe91-4834-8128-3442c7f16206" />
+<img width="1419" height="711" alt="Screenshot 2025-08-17 at 10 50 20 AM" src="https://github.com/user-attachments/assets/c0b2f235-25d0-48c5-b6c3-5275caba5bb8" />
+<img width="1202" height="751" alt="Screenshot 2025-08-17 at 10 50 58 AM" src="https://github.com/user-attachments/assets/3f85636c-120c-4b1c-8ceb-e627d32c8695" />
+<img width="1187" height="614" alt="Screenshot 2025-08-17 at 10 51 11 AM" src="https://github.com/user-attachments/assets/127cc64c-b267-41ab-a1fe-fa8151bd35d3" />
 
 
 
